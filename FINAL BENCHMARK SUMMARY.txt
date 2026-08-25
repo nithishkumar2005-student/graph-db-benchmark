@@ -1,0 +1,20 @@
+========================================
+FINAL BENCHMARK SUMMARY
+========================================
+
+[CognoDB]
+  1-Hop (p50): 255.76ms
+  1-Hop (p95): 348.40ms
+  2-Hop (p50): 255.56ms
+
+[Neo4j]
+  Error: Authentication or Connection Failed
+
+[Memgraph]
+  1-Hop (p50): 158.85ms
+  1-Hop (p95): 229.60ms
+  2-Hop (p50): 160.99ms
+
+[ArangoDB]
+  1-Hop (p50): 277.75ms
+  2-Hop (p50): 275.15ms
